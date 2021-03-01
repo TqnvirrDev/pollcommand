@@ -1,0 +1,13 @@
+{
+  "name": "discord-votemaster-master",
+  "version": "1.0.0",
+  "description": "This is the beginnings of a complex polling bot for Discord, allowing for advanced polls with many options, vote restrictions, and even graphs of results.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
